@@ -8,6 +8,14 @@
     border: 1px solid red;
 }
 
+.text-very-large {
+    font-size: 4rem;
+}
+
+.text-large {
+    font-size: 3.2rem;
+}
+
 /* HEADER */
 
 #mr-navbar a {
