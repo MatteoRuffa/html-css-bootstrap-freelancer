@@ -26,8 +26,11 @@
     width: 15rem;
 }
 
-#hero h2 {
-    font-size: 12rem;
+.mr-bar {
+    border: 2px solid var(--bs-white);
+    border-radius: 5px;
+    width: 10rem;
+    height: 3px;
 }
 
 /* SECTION PORTFOLIO  */
