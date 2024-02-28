@@ -7,3 +7,9 @@
 .debug {
     border: 1px solid red;
 }
+
+/* HEADER */
+
+#mr-navbar a {
+    color: white;
+} 
