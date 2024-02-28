@@ -35,9 +35,21 @@
 
 /* SECTION PORTFOLIO  */
 
+#portfolio .mr-bar {
+    border: 2px solid var(--bs-body-color);
+}
+
 /* SECTION ABOUT  */
 
+#about .mr-bar {
+    border: 2px solid var(--bs-white);
+}
+
 /* SECTION CONTACT */
+
+#contact .mr-bar {
+    border: 2px solid var(--bs-body-color);
+}
 
 #contact .form-control::before {
     border: 0px solid;
