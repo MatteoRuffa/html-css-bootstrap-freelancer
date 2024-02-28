@@ -12,4 +12,21 @@
 
 #mr-navbar a {
     color: white;
-} 
+}
+
+/* MAIN */
+
+/* SECTION HERO */
+
+#hero .container {
+    color: var(--bs-white);
+}
+
+#hero img {
+    width: 15rem;
+}
+
+#hero h2 {
+    font-size: 12rem;
+}
+
