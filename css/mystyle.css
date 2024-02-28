@@ -1,0 +1,9 @@
+/* GENERAL */
+
+.odd {
+    background-color: #1ABC9C;
+}
+
+.debug {
+    border: 1px solid red;
+}
